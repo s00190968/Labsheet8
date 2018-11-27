@@ -30,16 +30,27 @@ namespace RandomNumberGame
         private void guessBtn_Click(object sender, RoutedEventArgs e)
         {
             num2 = rand.Next(0, 21);
-            if (biggerRadioBtn.IsChecked == true)
-            {
 
+            if (biggerRadioBtn.IsChecked == true && num2 > num1)//if bigger is selected and first number is smaller than second number
+            {
+                gameResultTxtBx.Text = "You won!";
             }
+            else if (smallerRadioBtn.IsChecked == true && num2 < num1)//if smaller is selected and first number is bigger than second number
+            {
+                gameResultTxtBx.Text = "You won!";
+            }
+            else
+            {
+                gameResultTxtBx.Text = "You lost!";
+            }
+
+            secondNumTxt.Text = num2.ToString();
         }
 
         private void startBtn_Click(object sender, RoutedEventArgs e)
         {
             num1 = rand.Next(0, 21);
-            initialNumberTxtBx.Text = num1.ToString();
+            firstNumTxt.Text = num1.ToString();
         }
 
     }

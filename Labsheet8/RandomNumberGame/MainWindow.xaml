@@ -11,15 +11,16 @@
             <ColumnDefinition Width="139*"/>
             <ColumnDefinition Width="34*"/>
         </Grid.ColumnDefinitions>
-        <Button x:Name="startBtn" Content="Start Game" HorizontalAlignment="Left" Margin="43,33,0,0" VerticalAlignment="Top" Width="114" Height="38" Click="startBtn_Click"/>
-        <TextBox x:Name="initialLabelTxtBx" HorizontalAlignment="Left" Height="23" Margin="43,91,0,0" TextWrapping="Wrap" Text="Initial number:" VerticalAlignment="Top" Width="88"/>
-        <TextBox x:Name="initialNumberTxtBx" HorizontalAlignment="Left" Height="23" Margin="132,91,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="34"/>
-        <Button x:Name="guessBtn" Content="Guess" HorizontalAlignment="Left" Margin="43,196,0,0" VerticalAlignment="Top" Width="58" Height="22" Click="guessBtn_Click"/>
-        <RadioButton x:Name="biggerRadioBtn" Content="Bigger" HorizontalAlignment="Left" Margin="43,146,0,0" VerticalAlignment="Top"/>
-        <RadioButton x:Name="smallerRadioBtn" Content="Smaller" HorizontalAlignment="Left" Margin="43,166,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="secondLAbelTxtBx" HorizontalAlignment="Left" Height="23" Margin="43,255,0,0" TextWrapping="Wrap" Text="Second number:" VerticalAlignment="Top" Width="96"/>
-        <TextBox x:Name="secondNumberTxtBx" HorizontalAlignment="Left" Height="23" Margin="141,255,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="34"/>
-        <TextBox x:Name="gameResultTxtBx" HorizontalAlignment="Left" Height="23" Margin="43,311,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="96"/>
+        <Button x:Name="startBtn" Content="Start Game" HorizontalAlignment="Left" Margin="43,12,0,0" VerticalAlignment="Top" Width="114" Height="38" Click="startBtn_Click"/>
+        <Button x:Name="guessBtn" Content="Guess" HorizontalAlignment="Left" Margin="43,208,0,0" VerticalAlignment="Top" Width="58" Height="22" Click="guessBtn_Click"/>
+        <RadioButton x:Name="biggerRadioBtn" Content="Bigger" HorizontalAlignment="Left" Margin="43,158,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="smallerRadioBtn" Content="Smaller" HorizontalAlignment="Left" Margin="43,178,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="firstNumLAbel" HorizontalAlignment="Left" Margin="42,64,0,0" TextWrapping="Wrap" Text="First number:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="firstNumTxt" HorizontalAlignment="Left" Margin="120,64,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="secondNumLabel" HorizontalAlignment="Left" Margin="42,273,0,0" TextWrapping="Wrap" Text="Second number:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="secondNumTxt" HorizontalAlignment="Left" Margin="138,273,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="42,106,0,0" TextWrapping="Wrap" Text="Guess if the second number will be bigger or smaller than the first one." VerticalAlignment="Top" Height="34" Width="212"/>
+        <TextBlock x:Name="gameResultTxtBx" HorizontalAlignment="Left" Margin="42,317,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
