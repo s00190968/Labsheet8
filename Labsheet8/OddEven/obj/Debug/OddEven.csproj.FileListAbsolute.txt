@@ -13,3 +13,18 @@ C:\Users\s00190968\Documents\Labsheet8\Labsheet8\Labsheet8\OddEven\obj\Debug\Odd
 C:\Users\s00190968\Documents\Labsheet8\Labsheet8\Labsheet8\OddEven\obj\Debug\OddEven.csproj.CoreCompileInputs.cache
 C:\Users\s00190968\Documents\Labsheet8\Labsheet8\Labsheet8\OddEven\obj\Debug\OddEven.exe
 C:\Users\s00190968\Documents\Labsheet8\Labsheet8\Labsheet8\OddEven\obj\Debug\OddEven.pdb
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\bin\Debug\OddEven.exe.config
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\bin\Debug\OddEven.exe
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\bin\Debug\OddEven.pdb
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\obj\Debug\OddEven.csprojAssemblyReference.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\obj\Debug\MainWindow.g.cs
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\obj\Debug\App.g.cs
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\obj\Debug\OddEven_MarkupCompile.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\obj\Debug\OddEven_MarkupCompile.lref
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\obj\Debug\MainWindow.baml
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\obj\Debug\OddEven.g.resources
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\obj\Debug\OddEven.Properties.Resources.resources
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\obj\Debug\OddEven.csproj.GenerateResource.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\obj\Debug\OddEven.csproj.CoreCompileInputs.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\obj\Debug\OddEven.exe
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\OddEven\obj\Debug\OddEven.pdb

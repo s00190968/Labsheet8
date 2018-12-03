@@ -1,0 +1,15 @@
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\obj\Debug\Part7.csprojAssemblyReference.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\obj\Debug\MainWindow.g.cs
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\obj\Debug\App.g.cs
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\obj\Debug\Part7_MarkupCompile.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\obj\Debug\Part7_MarkupCompile.lref
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\bin\Debug\Part7.exe.config
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\bin\Debug\Part7.exe
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\bin\Debug\Part7.pdb
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\obj\Debug\MainWindow.baml
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\obj\Debug\Part7.g.resources
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\obj\Debug\Part7.Properties.Resources.resources
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\obj\Debug\Part7.csproj.GenerateResource.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\obj\Debug\Part7.csproj.CoreCompileInputs.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\obj\Debug\Part7.exe
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet8\Labsheet8\Part7\obj\Debug\Part7.pdb

@@ -1,0 +1,19 @@
+﻿<Window x:Class="Part7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Part7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="317">
+    <Grid>
+        <Button x:Name="moveBtn" Content="Click me!" HorizontalAlignment="Left" Margin="193,52,0,0" VerticalAlignment="Top" Width="75" Click="moveBtn_Click"/>
+        <TextBox x:Name="directionTxBx" HorizontalAlignment="Left" Height="23" Margin="36,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="instructionTxBl" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Enter up, down, left or right. On to the text box under." VerticalAlignment="Top" Height="39" Width="292"/>
+        <TextBlock x:Name="warningTxBl" HorizontalAlignment="Left" Margin="10,393,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Canvas x:Name="areaCanvas" HorizontalAlignment="Left" Height="326" Margin="10,83,0,0" VerticalAlignment="Top" Width="289">
+            <Image x:Name="dogeImg" HorizontalAlignment="Left" Height="100" Source="Images/dogedance.gif" VerticalAlignment="Top" Width="100" MouseEnter="dogeImg_MouseEnter" MouseLeave="dogeImg_MouseLeave" Canvas.Left="89" Canvas.Top="122"/>
+        </Canvas>
+
+    </Grid>
+</Window>
